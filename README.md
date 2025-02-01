@@ -1,3 +1,4 @@
 # coding-practice
 
 hoge
+foo
